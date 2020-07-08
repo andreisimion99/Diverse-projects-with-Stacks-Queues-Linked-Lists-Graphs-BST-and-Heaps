@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1554040416 source:f:\codeblocks projects\granddevoir1\main.cpp
+	<string.h>
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	"AdvancedStack.h"
+	"PriorityQueue.h"
+
+1554036517 f:\codeblocks projects\granddevoir1\advancedstack.h
+
+1554036712 f:\codeblocks projects\granddevoir1\priorityqueue.h
+

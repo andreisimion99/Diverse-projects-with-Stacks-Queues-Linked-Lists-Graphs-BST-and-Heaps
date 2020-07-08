@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1556547379 source:f:\codeblocks projects\granddevoir2\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	"header.h"
+
+1556536558 source:f:\codeblocks projects\granddevoir2\functii.cpp
+
+1556537488 f:\codeblocks projects\granddevoir2\header.h
+
